@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#228583</color>
+    <color name="colorPrimaryDark">#0A4948</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimaryClone">#5DB4B2</color>
+
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorTextHint">#80228583</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#AC160B</color>
+    <color name="colorDivider">#DBDBDB</color>
+</resources>
